@@ -11,7 +11,7 @@ begin
     write('Masukkan n: ');
     readln(n);
 
-    write('Bilangan prima antara 1 dan ', n, 'adalah: ');
+    write('Bilangan prima antara 1 dan ', n, ' adalah: ');
 
     for i := 2 to n do
     begin   
